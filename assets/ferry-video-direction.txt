@@ -1,0 +1,42 @@
+SENTINELS — FERRY SEQUENCE
+Condensed video-direction brief
+
+REFERENCE MAP
+- Master image: exact opening composition, ferry geography, Axis C, subject scale and character placement.
+- Individual character sheets: identity, costume and appearance for UV, Shuki, Nishi, Sunil and Badri.
+- Ferry environment sheet: boat design and painterly environment language.
+
+VISUAL LANGUAGE
+2D cinematic anime. Clean cel-shaded characters inside a painterly ferry environment. Night lighting with a cold blue tone and readable dramatic expressions.
+
+CONTINUITY RULES
+- Maintain Axis C: the established viewing side of the scene.
+- Crimson mist remains overhead and moves from the foreground toward the back of the ferry—never sideways or toward camera.
+- Strong wind moves clothing and hair; the boat sways subtly with the waves.
+- Preserve character identity, costume, scale, stable linework and background continuity.
+- Five characters appear only in the opening shot block. No extras.
+
+EMOTIONAL ARC
+Panic → recognition → dread → protective concern → fading consciousness.
+
+TIMED STORY BEATS
+
+SHOT 04 — 00:00–00:03
+Start on the wide, high-angle master composition. UV thrashes at the centre while Shuki, Nishi, Sunil and Badri tighten around him. Cut within the same block to a tight UV close-up: scared, erratic and only partly conscious.
+
+SHOT 07 — 00:03–00:05
+Medium close-up favoring Badri. He studies UV below, then slowly lifts his gaze toward the passing mist. Static camera; alarm turns into recognition.
+
+SHOT 08 — 00:05–00:07
+Close-up favoring Shuki with shallow depth of field. She turns from UV and looks upward. UV stays behind her, soft and nearly unconscious. Tension becomes dread.
+
+SHOT 10 — 00:07–00:09
+Continue on Shuki. She snaps her attention back down toward UV. Protective concern overtakes the horror of what she has seen.
+
+SHOT 11 — 00:09–00:11
+Tight static close-up on UV. His eyelids grow heavy, his breath becomes shallow and the last trace of panic drains from his face as he slips toward unconsciousness.
+
+QUALITY TARGETS
+No identity swaps, extra characters, unstable subject scale, palette flicker, line boil, shape warping or background instability.
+
+Portfolio note: this is a concise presentation of the supplied production direction rather than a model-specific generation prompt.
